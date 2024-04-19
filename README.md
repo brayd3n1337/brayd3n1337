@@ -20,5 +20,6 @@ Current Projects:
 4. Encrypted IRC (Internet Relay Chat) communcation
 5. Custom JIT based language with custom compiler written in C and a native function interface similar to the JNI
 6. Java Obfuscator
+7. Secure Encrypted and Hashed Authentication 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=L33TC0D3H4CK3R)](https://git.io/streak-stats)
