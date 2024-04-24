@@ -26,4 +26,6 @@ Current Projects:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L33TC0D3H4CK3R&count_private=true&theme=bear&langs_count=7"/> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=L33TC0D3H4CK3R&count_private=true&theme=bear" />  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=L33TC0D3H4CK3R&show_icons=true&locale=en" alt="L33TC0D3H4CK3R" /></p>
+
 
