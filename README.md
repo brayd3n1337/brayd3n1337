@@ -24,4 +24,5 @@ Current Projects:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=L33TC0D3H4CK3R)](https://git.io/streak-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=L33TC0D3H4CK3R&count_private=true&theme=bear&langs_count=7
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L33TC0D3H4CK3R&count_private=true&theme=bear&langs_count=7" /> 
+
