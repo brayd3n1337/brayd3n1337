@@ -18,7 +18,7 @@ Current Projects:
 2. OpenGL Rendering Library
 3. Asynchronous & Synchronous EventBus
 4. Encrypted IRC (Internet Relay Chat) communcation
-5. Custom JIT based language with custom compiler written in C and a native function interface similar to the JNI
+5. Custom OOP JIT based language with custom compiler written in C and a native function interface similar to the JNI
 6. Java Obfuscator
 7. Secure Encrypted and Hashed Authentication 
 
