@@ -12,6 +12,8 @@ Currently Learning:
 3. CPU Architectures
 4. 2D and 3D Rendering
 5. UDP, TCP, IPV4, IPV6 sockets
+6. Bytecode/IL
+7. Transpilers
 
 Current Projects:
 1. Socket communication between C++ and Java
