@@ -1,6 +1,6 @@
 Fluent full stack developer.
 
-Languages: C++, Java, C#, C (kinda), TypeScript (Kinda)
+Languages: C++, Java, C#, C (kinda), TypeScript (Kinda), JavaScript
 
 API's/Libraries: Java ASM, OpenGL (learning), Vulkan (Learning)
 
