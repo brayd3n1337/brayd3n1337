@@ -24,9 +24,9 @@ Current Projects:
 6. Java Obfuscator
 7. Secure Encrypted and Hashed Authentication 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=L33TC0D3H4CK3R)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=braydenisagenius)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L33TC0D3H4CK3R&count_private=true&theme=bear&langs_count=7"/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=L33TC0D3H4CK3R&count_private=true&theme=bear" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydenisagenius&count_private=true&theme=bear&langs_count=7"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=braydenisagenius&count_private=true&theme=bear" />  
 
 
