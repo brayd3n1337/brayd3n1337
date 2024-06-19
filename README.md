@@ -15,7 +15,8 @@ Currently Learning:
 6. Bytecode/IL,
 7. Transpilers,
 8. logistic regression neural network models,
-9. generative adversarial neural network (GAN) models 
+9. generative adversarial neural network (GAN) models
+10. Rust, HTML, CSS, D Lang (maybe)
 
 Current Projects:
 1. Socket communication between C++ and Java
