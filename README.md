@@ -26,7 +26,8 @@ Current Projects:
 5. Custom OOP JIT based language with custom compiler written in C and a native function interface similar to the JNI (almost done actually)
 6. Java Obfuscator
 7. Secure Encrypted and Hashed Authentication
-8. Custom assymetric & symmetric encryption algorithm 
+8. Custom assymetric & symmetric encryption algorithm
+9. AES file encryption for executables, images, etc
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=braydenisagenius)](https://git.io/streak-stats)
 
