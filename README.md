@@ -29,9 +29,9 @@ Current Projects:
 8. Custom assymetric & symmetric encryption algorithm
 9. AES file encryption for executables, images, etc
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=br4yden1337)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brayd3n1337)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br4yden1337&count_private=true&theme=bear&langs_count=7"/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=br4yden1337&count_private=true&theme=bear" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayd3n1337&count_private=true&theme=bear&langs_count=7"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayd3n1337&count_private=true&theme=bear" />  
 
 
