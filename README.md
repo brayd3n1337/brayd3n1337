@@ -17,6 +17,7 @@ Currently Learning:
 8. logistic regression neural network models,
 9. generative adversarial neural network (GAN) models
 10. Rust, HTML, CSS, D Lang (maybe)
+11. IOCTL communication between kernel and usermode
 
 Current Projects:
 1. Socket communication between C++ and Java
