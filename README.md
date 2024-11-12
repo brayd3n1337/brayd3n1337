@@ -19,6 +19,11 @@ Currently Learning:
 10. Rust, HTML, CSS, D Lang (maybe)
 11. IOCTL communication between kernel and usermode
 
+Main Learning Focuses:
+1. C++ Reverse Engineering
+2. x86 assembly
+3. Windows Kernel 
+
 Current Projects:
 1. Socket communication between C++ and Java
 2. OpenGL Rendering Library
