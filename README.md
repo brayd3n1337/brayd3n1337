@@ -13,6 +13,11 @@ Languages: C++, Java, C#, C, x86 ASM
 - Custom Operating System
 - JVM manipulation
 
+# Previous Projects
+- FFNN
+- Dynamic Linked Library injection detector
+- Garbage Collector
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=brayd3n1337)](https://git.io/streak-stats)
 
